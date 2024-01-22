@@ -3,7 +3,7 @@
 <h2>Features</h2>
 
 <ul>
- <li> quiz on world capitals. </li>
+ <li> Quiz on world capitals. </li>
 <li> Keeps track of the total correct answers. </li>
 <li> Uses Express.js for server-side logic.</li>
 <li> Utilizes PostgreSQL for storing and retrieving quiz data. </li>
